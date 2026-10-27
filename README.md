@@ -1,4 +1,4 @@
-# SecChain
+#Achain
 
 A small proof-of-work blockchain written in Python, with signed transactions, fees, automatic difficulty adjustment, a separate signing process, a hardened network node and a desktop interface.
 
@@ -36,7 +36,7 @@ With the signer running, the window shows the wallet address and balance and ena
 
 ```
 git clone https://github.com/Adaba2006/secchain.git
-cd secchain
+cdAchain
 python -m venv venv
 venv\Scripts\activate            # Windows
 source venv/bin/activate         # Linux or macOS
