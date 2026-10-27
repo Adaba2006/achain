@@ -35,7 +35,7 @@ With the signer running, the window shows the wallet address and balance and ena
 ## Quick start
 
 ```
-git clone https://github.com/Adaba2006/secchain.git
+git clone https://github.com/Adaba2006/achain.git
 cdAchain
 python -m venv venv
 venv\Scripts\activate            # Windows
