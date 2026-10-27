@@ -1,0 +1,59 @@
+SecChain Source-Available License (Non-Commercial)
+
+Copyright (c) 2026 ADABA TEMITOPE OLUSEGUN. All rights reserved except as stated below.
+
+1. Permission
+
+You may view, download, run and modify this software and its documentation
+(the "Software") for personal, educational and research purposes, provided
+that you keep this notice with every copy. Forking the repository on GitHub
+is permitted to the extent required by GitHub's Terms of Service.
+
+2. Restrictions
+
+Without the author's prior written permission, you may not:
+
+(a) sell, resell, rent, sublicense or otherwise charge for the Software or
+    any copy or modification of it;
+(b) use the Software, in whole or in part, in a commercial product or
+    service, or in the operations of a business;
+(c) redistribute the Software, except unmodified copies shared for
+    non-commercial purposes that include this license;
+(d) remove or alter copyright notices, or present the Software or any part
+    of it as your own work.
+
+3. Commercial use and purchase
+
+Commercial use, and the purchase of a copy, require a separate written
+agreement with the author. The author may grant different terms to different
+people.
+
+4. Ownership
+
+The author keeps all rights, title and interest in the Software. No rights
+are granted except those stated in this license.
+
+5. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NON-INFRINGEMENT. THE SOFTWARE IS A LEARNING PROTOTYPE AND IS NOT
+INTENDED TO HOLD, SECURE OR TRANSFER ANYTHING OF REAL VALUE. YOU USE IT AT
+YOUR OWN RISK.
+
+6. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR IS NOT LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING LOSS OF FUNDS OR DATA, ARISING
+FROM OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+7. Termination
+
+Your rights under this license end automatically if you breach it. You must
+then stop using the Software and delete your copies.
+
+8. Third-party components
+
+The Software depends on separate packages (including cryptography, Flask and
+requests). They are not covered by this license and remain under their own
+licenses.
