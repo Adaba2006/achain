@@ -35,8 +35,8 @@ With the signer running, the window shows the wallet address and balance and ena
 ## Quick start
 
 ```
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/Adaba2006/secchain.git
+cd secchain
 python -m venv venv
 venv\Scripts\activate            # Windows
 source venv/bin/activate         # Linux or macOS
@@ -118,4 +118,4 @@ Each script shows a rule being enforced against a deliberate attack or error.
 
 This project is **source-available, not open source**. You may read, run and modify it for personal, educational and research use. Selling it, or using it in a commercial product or service, needs the author's written permission. See [LICENSE](LICENSE).
 
-For commercial use or to buy a copy, contact: [your email or GitHub profile].
+For commercial use or to buy a copy, contact: https://github.com/Adaba2006.
